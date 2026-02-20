@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>PlinkoGame</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OptionStrict>On</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <OptionExplicit>On</OptionExplicit>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+</Project>
